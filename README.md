@@ -1,0 +1,1 @@
+First Setup.sh then Sync.sh
